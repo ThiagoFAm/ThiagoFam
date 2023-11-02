@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:-->
 
-- 👨‍🎓 Atualmente eu estou estudando Engenharia da computação
+- 👨‍🎓 I'm currently studying Computer Engineering
 - 👨‍💻 Programming languages: Python, C++, C.
 - 💻 I like to do personal projects when I'm free
 - 💬 Ask me about: Music, IoT and other techlogies
